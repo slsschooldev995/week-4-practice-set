@@ -1,0 +1,14 @@
+
+.red{
+    color: white;
+    background-color: red;
+}
+#class{
+    background-color: chartreuse;
+}
+.one,.two{
+    color: blue;
+}
+.milo{
+    color: purple;
+}
